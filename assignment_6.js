@@ -1,0 +1,8 @@
+console.log(typeof(3.14))
+console.log(typeof('Lucy'))
+console.log(typeof(true))
+console.log(typeof(null))
+console.log(typeof(undefined))
+console.log(typeof(Symbol('Lucy')))
+console.log(typeof({ name: 'Lucy' }))
+console.log(typeof(['Lucy', 'Tom']))
